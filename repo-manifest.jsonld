@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/celery/celery/commit/f5dbef350688eb7250cdf1e389db93ea9cc605fd",
       "git:hexsha": "f5dbef350688eb7250cdf1e389db93ea9cc605fd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T14:00:20.271323+00:00"
     },
     {
       "@id": "https://repolex.ai/r/celery/celery/commit/36be0eb402f17fd92788fd585bc5c2a82203faab",
